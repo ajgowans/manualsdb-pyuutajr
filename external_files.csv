@@ -1,1 +1,10 @@
-Path in MiSTer, URL, Size in bytes (optional but recommended), MD5 Hash (optional but recommended), Filter Terms (optional)
+Path,URL,Size in bytes (optional but recommended),MD5 Hash (optional but recommended),Filter Terms (optional),Overwrite (optional),Comments (optional)
+docs/TomyTutor/Pyuuta Jr Manuals/Cave Crawlers.pdf,https://archive.org/download/mister-manuals/1983_Tomy%20Pyuuta%20Jr%2C.zip/1983_Tomy%20Pyuuta%20Jr%2C%2FCave%20Crawlers.pdf,689588,ba0a0f4fa59ae0d31b43927904a2e321,,,Cave Crawlers.pdf
+docs/TomyTutor/Pyuuta Jr Manuals/Deep Six.pdf,https://archive.org/download/mister-manuals/1983_Tomy%20Pyuuta%20Jr%2C.zip/1983_Tomy%20Pyuuta%20Jr%2C%2FDeep%20Six.pdf,548673,6b601c927a62d4bb9984d5c2a662d1f3,,,Deep Six.pdf
+docs/TomyTutor/Pyuuta Jr Manuals/Hyperspace.pdf,https://archive.org/download/mister-manuals/1983_Tomy%20Pyuuta%20Jr%2C.zip/1983_Tomy%20Pyuuta%20Jr%2C%2FHyperspace.pdf,515103,ce7cfe4bffa24d54a79196d4e9959346,,,Hyperspace.pdf
+docs/TomyTutor/Pyuuta Jr Manuals/Jungler.pdf,https://archive.org/download/mister-manuals/1983_Tomy%20Pyuuta%20Jr%2C.zip/1983_Tomy%20Pyuuta%20Jr%2C%2FJungler.pdf,529388,845b0f5cff3a72de6547ca3fbec2fb29,,,Jungler.pdf
+docs/TomyTutor/Pyuuta Jr Manuals/Loco-Motion.pdf,https://archive.org/download/mister-manuals/1983_Tomy%20Pyuuta%20Jr%2C.zip/1983_Tomy%20Pyuuta%20Jr%2C%2FLoco-Motion.pdf,601894,a5d2fd14d0d044ec0fc928deb3d5cd76,,,Loco-Motion.pdf
+docs/TomyTutor/Pyuuta Jr Manuals/Pooyan.pdf,https://archive.org/download/mister-manuals/1983_Tomy%20Pyuuta%20Jr%2C.zip/1983_Tomy%20Pyuuta%20Jr%2C%2FPooyan.pdf,505660,a23bceb5e9b1bcdb0b9488186b4f432f,,,Pooyan.pdf
+docs/TomyTutor/Pyuuta Jr Manuals/Scramble.pdf,https://archive.org/download/mister-manuals/1983_Tomy%20Pyuuta%20Jr%2C.zip/1983_Tomy%20Pyuuta%20Jr%2C%2FScramble.pdf,509210,f00f7bf7716f1863b68650811da119e4,,,Scramble.pdf
+docs/TomyTutor/Pyuuta Jr Manuals/Torpedo Terror.pdf,https://archive.org/download/mister-manuals/1983_Tomy%20Pyuuta%20Jr%2C.zip/1983_Tomy%20Pyuuta%20Jr%2C%2FTorpedo%20Terror.pdf,488819,1a998dfce26cbd3784918cc7f8c4833f,,,Torpedo Terror.pdf
+docs/TomyTutor/Pyuuta Jr Manuals/Traffic Jam.pdf,https://archive.org/download/mister-manuals/1983_Tomy%20Pyuuta%20Jr%2C.zip/1983_Tomy%20Pyuuta%20Jr%2C%2FTraffic%20Jam.pdf,545217,56cf506cd6431f4577506283d6f918c2,,,Traffic Jam.pdf
